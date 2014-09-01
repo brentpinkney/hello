@@ -1,0 +1,3 @@
+[submodule "lib/first/src"]
+	path = lib/first/src
+	url = /home/brp/projects/pq-prime/first
